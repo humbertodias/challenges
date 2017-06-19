@@ -1,4 +1,4 @@
-## v1) Brute force for Prime and Palidrome
+## v1) Brute force for Prime and Palindrome
 
 ```
 $ time python pprime-v1.py
@@ -9,7 +9,7 @@ user    0m0.000s
 sys     0m0.000s
 ```
 
-## v2) Brute force for Prime and Math Guess for Palidrome
+## v2)  Brute force for Prime and Math Guess for Palindrome
 
 ```
 $ time python pprime-v2.py
@@ -20,7 +20,8 @@ user    0m0.000s
 sys     0m0.000s
 ```
 
-## v3) Sieve of Eratosthenes for Prime and Math Guess for Palidrome
+## v3)  Sieve of Eratosthenes for Prime and Math Guess for Palindrome
+
 ```
 $ time python pprime-v3.py
 pprime-v3[1661]=159323951
@@ -30,7 +31,7 @@ user    0m0.000s
 sys     0m0.031s
 ```
 
-## v4) Brute force for Prime for Prime and Math Guess for Palidrome
+## v4) Brute force for Prime for Prime and Math Guess for Palindrome
 
 ```
 $ javac PPrimeV4.java
