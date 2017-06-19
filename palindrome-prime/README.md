@@ -1,8 +1,7 @@
-# PPrime
 
-PPrime is a prime palindromic number.
+**PPrime** is a prime palindromic number.
 
---
+## Tests
 
 1. Brute force for Prime and Palindrome
 
