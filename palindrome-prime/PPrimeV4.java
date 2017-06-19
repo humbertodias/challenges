@@ -1,4 +1,7 @@
 public class PPrimeV4 {
+
+    // Source:
+    // https://github.com/darrensun/OJ-Solutions/blob/master/src/com/darrensun/spoj/palin/Main.java
     /**
      * Find the next palindrome of a given integer.
      * @param k The given integer as a string.
