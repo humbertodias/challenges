@@ -31,7 +31,7 @@ user    0m0.000s
 sys     0m0.031s
 ```
 
-## v4) Brute force for Prime for Prime and Math Guess for Palindrome
+## v4) Brute force for Prime and Math Guess for Palindrome
 
 ```
 $ javac PPrimeV4.java
