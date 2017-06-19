@@ -79,10 +79,10 @@ public class PPrimeV4 {
     }
 
     public static void main(String ... args) {
-        int MAX = (args.length == 0) ? 1661 :  Integer.parseInt(args[0]);
+        Long MAX = (args.length == 0) ? 1661 :  Long.parseLong(args[0]);
         String sn = "2";
-        int n = Integer.parseInt(sn);
-        int found = 0;
+        Long n = Long.parseLong(sn);
+        Long found = 0L;
         boolean DEBUG = false;
         while(true){
             if(isPrime(n)){
@@ -90,9 +90,9 @@ public class PPrimeV4 {
                if(DEBUG)
                System.out.println(sn);
             }
-            if (found >= 1661)  break;
+            if (found >= MAX)  break;
             sn = nextPalindrome(sn);
-            n = Integer.parseInt(sn);
+            n = Long.parseLong(sn);
         }
 
         System.out.printf("PPrime-v4[%d]=%s\n",found,sn);
