@@ -50,7 +50,7 @@
 	user    0m0.000s
 	sys     0m0.015s
 	```
-	[PPrimeV4.java](PPrimeV4.java)
+	[src/main/java/PPrimeV4.java](PPrimeV4.java)
 
 5. Brute force for Prime and Math Guess for Palindrome with bytes Array
 
@@ -63,7 +63,7 @@
 	user	0m0.199s
 	sys	0m0.035s
 	```
-	[PPrimeV5.java](PPrimeV5.java)
+	[src/main/java/PPrimeV5.java](PPrimeV5.java)
 	
 	or
 	
