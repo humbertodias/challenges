@@ -51,3 +51,22 @@
 	sys     0m0.015s
 	```
 	[PPrimeV4.java](PPrimeV4.java)
+
+5. Brute force for Prime and Math Guess for Palindrome with bytes Array
+
+	```
+	$ javac PPrimeV5.java
+	time java PPrimeV5 1661
+	PPrimeV5[1661]=159323951
+	
+	real	0m0.201s
+	user	0m0.199s
+	sys	0m0.035s
+	```
+	[PPrimeV5.java](PPrimeV5.java)
+	
+	or
+	
+	```
+	mvn compile exec:java -Dexec.mainClass="PPrimeV5"
+	```

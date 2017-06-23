@@ -78,8 +78,7 @@ public class PPrimeV4 {
         return true;
     }
 
-    public static void main(String ... args) {
-        Long MAX = (args.length == 0) ? 1661 :  Long.parseLong(args[0]);
+    public static long find(long limit){
         String sn = "2";
         Long n = Long.parseLong(sn);
         Long found = 0L;
@@ -90,11 +89,15 @@ public class PPrimeV4 {
                if(DEBUG)
                System.out.println(sn);
             }
-            if (found >= MAX)  break;
+            if (found >= limit)  break;
             sn = nextPalindrome(sn);
             n = Long.parseLong(sn);
         }
+        return n;        
+    }
 
-        System.out.printf("PPrime-v4[%d]=%s\n",found,sn);
+    public static void main(String ... args) {
+        Long limit = (args.length == 0) ? 1661 :  Long.parseLong(args[0]);
+        System.out.printf("PPrime-v4[%d]=%s\n",limit,find(limit) );
     }
 }
