@@ -4,6 +4,7 @@ import java.util.Iterator;
 import java.util.stream.Stream;
 import java.util.stream.StreamSupport;
 
+// http://antrix.net/posts/2015/streams-java-8/
 class FibonacciSequence implements Iterator<Integer>, Iterable<Integer> {
 
     private final Integer max;
