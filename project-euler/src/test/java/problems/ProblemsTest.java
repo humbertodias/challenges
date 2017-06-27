@@ -73,5 +73,12 @@ public class ProblemsTest
         assertEquals(142913828922L, Problem010.solve(2_000_000));
     }
 
+    @Test
+    public void problem013()
+    {
+        assertEquals("5537376230", Problem013.solve(10));
+    }
+
+
 }
 
