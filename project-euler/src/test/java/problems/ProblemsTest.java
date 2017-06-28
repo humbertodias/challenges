@@ -74,10 +74,39 @@ public class ProblemsTest
     }
 
     @Test
+    public void problem011()
+    {
+        assertEquals(70600674, Problem011.solve());
+    }
+
+    @Test
+    public void problem012()
+    {
+        assertEquals(28, Problem012.solve(5));
+        assertEquals(76576500, Problem012.solve(500));
+    }
+
+
+    @Test
     public void problem013()
     {
         assertEquals("5537376230", Problem013.solve(10));
     }
+
+    @Test
+    public void problem014()
+    {
+        assertEquals(837799, Problem014.solve(1_000_000));
+    }
+
+    @Test
+    public void problem015()
+    {
+        assertEquals(6, Problem015.solve(2));
+        assertEquals(137846528820L, Problem015.solve(20));
+    }
+
+
 
 
 }
