@@ -133,10 +133,17 @@ public class ProblemsTest
     }
 
     @Test
-    public void problem0120()
+    public void problem020()
     {
         assertEquals(27, Problem020.solve(10));
         assertEquals(648, Problem020.solve(100));
+    }
+
+    @Test
+    public void problem025()
+    {
+        assertEquals(12, Problem025.solve(3));
+        assertEquals(4782, Problem025.solve(1000));
     }
 
 }
