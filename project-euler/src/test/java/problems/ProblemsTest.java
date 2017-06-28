@@ -106,8 +106,38 @@ public class ProblemsTest
         assertEquals(137846528820L, Problem015.solve(20));
     }
 
+    @Test
+    public void problem016()
+    {
+        assertEquals(26, Problem016.solve(15));
+        assertEquals(1366, Problem016.solve(1000));
+    }
 
+    @Test
+    public void problem017()
+    {
+        assertEquals(39, Problem017.solve(10));
+        assertEquals(21124, Problem017.solve(1000));
+    }
 
+    @Test
+    public void problem018()
+    {
+        assertEquals(1074, Problem018.solve());
+    }
+
+    @Test
+    public void problem019()
+    {
+        assertEquals(171, Problem019.solve());
+    }
+
+    @Test
+    public void problem0120()
+    {
+        assertEquals(27, Problem020.solve(10));
+        assertEquals(648, Problem020.solve(100));
+    }
 
 }
 
