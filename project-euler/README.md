@@ -1,11 +1,12 @@
+## ProjectEuler
 
-(https://projecteuler.net)[https://projecteuler.net]
+[https://projecteuler.net](https://projecteuler.net)
 
 
 ## Requiriments
 
-1. Java (8+)[http://www.oracle.com/technetwork/java/javase/downloads/index.html]
-2. Maven (3+)[https://maven.apache.org/download.cgi]
+1. Java [8+](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+2. Maven [3+](https://maven.apache.org/download.cgi)
 
 ## How to play
 
@@ -52,5 +53,5 @@ Tests run: 11, Failures: 0, Errors: 0, Skipped: 0
 
 References
 
-1. (About projecteuler)[https://projecteuler.net/about]
+1. [About projecteuler](https://projecteuler.net/about)
 
