@@ -1,0 +1,7 @@
+2
+3 3 2
+aab
+aba
+4 3 0
+abcc
+eee

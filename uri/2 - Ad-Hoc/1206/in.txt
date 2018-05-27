@@ -1,0 +1,9 @@
+4
+Tc3 Te4 Bf4 Wa8
+Wd1
+5
+Wb5 Pf3 Rh7 Te1 Tg1
+Wh1
+4
+Wa8 Ta1 Ta3 Rd2
+We2

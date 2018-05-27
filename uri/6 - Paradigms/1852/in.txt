@@ -1,0 +1,13 @@
+6
+Robb GreyWind Summer Ghost Nymeria Lady Shaggydog
+Jon Shaggydog GreyWind Summer Lady Ghost Nymeria
+Sansa Summer Lady Ghost GreyWind Nymeria Shaggydog
+Arya GreyWind Shaggydog Ghost Nymeria Lady Summer
+Bran GreyWind Lady Summer Ghost Shaggydog Nymeria
+Rickon Shaggydog Lady Ghost GreyWind Summer Nymeria
+GreyWind Rickon Robb Arya Bran Sansa Jon
+Ghost Jon Arya Sansa Bran Rickon Robb
+Lady Sansa Robb Rickon Jon Arya Bran
+Nymeria Rickon Bran Sansa Robb Arya Jon
+Summer Rickon Bran Robb Arya Sansa Jon
+Shaggydog Sansa Rickon Arya Jon Robb Bran

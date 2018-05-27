@@ -1,0 +1,3 @@
+Cenario 1, probabilidade de interceptacao = 0.433
+
+Cenario 2, probabilidade de interceptacao = 1.000

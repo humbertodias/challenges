@@ -1,0 +1,8 @@
+Quantidade minima de passos = 2
+123
+456
+708
+
+123
+456
+780

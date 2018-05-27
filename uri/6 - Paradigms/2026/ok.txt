@@ -1,0 +1,8 @@
+Galho 1:
+Numero total de enfeites: 40
+
+Galho 2:
+Numero total de enfeites: 37
+
+Galho 3:
+Numero total de enfeites: 52

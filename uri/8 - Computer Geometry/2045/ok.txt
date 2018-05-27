@@ -1,0 +1,3 @@
+Instancia 1
+soldado 1 defender
+soldado 2 espanhol

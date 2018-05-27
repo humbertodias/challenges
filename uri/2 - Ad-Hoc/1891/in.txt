@@ -1,0 +1,9 @@
+4
+3
+BDB
+5
+DBDDB
+5
+DDBDD
+6
+DBBBBB

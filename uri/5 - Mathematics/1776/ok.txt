@@ -1,0 +1,5 @@
+Caso #1: 25
+Caso #2: 9
+Caso #3: 100
+Caso #4: 36
+Caso #5: 169

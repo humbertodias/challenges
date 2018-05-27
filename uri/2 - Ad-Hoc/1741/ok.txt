@@ -1,0 +1,5 @@
+The answer is 4.
+The answer is 107.
+The answer is 0.
+Division by zero.
+Invalid expression.

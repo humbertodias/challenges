@@ -1,0 +1,6 @@
+Case 1:
+12 8
+Case 2:
+Impossible.
+Case 3:
+20 10

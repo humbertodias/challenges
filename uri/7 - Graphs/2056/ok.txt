@@ -1,0 +1,8 @@
+Instancia 1
+5 5
+
+Instancia 2
+Impossivel
+
+Instancia 3
+28 6

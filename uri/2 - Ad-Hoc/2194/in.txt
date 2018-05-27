@@ -1,0 +1,19 @@
+100 25
+CCCCCC0
+CCCCCC0
+...(50 lines omitted)...
+C1feCCC7cC
+C3feCCC7cC
+...(44 lines omitted)...
+CCCCCC0
+CCCCCC0
+150 38
+CCCCCCCCC00
+CCCCCCCCC00
+...(75 lines omitted)...
+CC03fffffffffffffffffCC000
+CC03fffffffffffffffffCC000
+...(69 lines omitted)...
+CCCCCCCCC00
+CCCCCCCCC00
+0 0

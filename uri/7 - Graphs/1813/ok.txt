@@ -1,0 +1,71 @@
+Instancia 1
+Possivel - 5 km, 3 min
+Impossivel
+Possivel - 6 km, 4 min
+Possivel - 2 km, 11 min
+Impossivel
+Possivel - 3 km, 14 min
+
+Instancia 2
+Impossivel
+Possivel - 2 km, 3 min
+Possivel - 2 km, 3 min
+Impossivel
+Possivel - 3 km, 4 min
+Possivel - 3 km, 4 min
+Possivel - 2 km, 6 min
+
+Instancia 3
+Impossivel
+Possivel - 3 km, 4 min
+Possivel - 2 km, 5 min
+Possivel - 2 km, 5 min
+
+Instancia 4
+Impossivel
+Possivel - 3 km, 2 min
+Possivel - 3 km, 2 min
+Possivel - 3 km, 2 min
+Possivel - 1 km, 5 min
+
+Instancia 5
+Possivel - 4 km, 1 min
+Possivel - 3 km, 3 min
+Impossivel
+Possivel - 3 km, 3 min
+
+Instancia 6
+Impossivel
+Possivel - 2 km, 2 min
+Impossivel
+Possivel - 1 km, 2 min
+Possivel - 1 km, 1 min
+
+Instancia 7
+Impossivel
+Impossivel
+Possivel - 2 km, 1 min
+Possivel - 0 km, 2 min
+Possivel - 0 km, 1 min
+Possivel - 0 km, 2 min
+
+Instancia 8
+Possivel - 0 km, 0 min
+Possivel - 79 km, 99 min
+
+Instancia 9
+Impossivel
+Impossivel
+
+Instancia 10
+Possivel - 41 km, 315 min
+Possivel - 42 km, 94 min
+Possivel - 37 km, 258 min
+Possivel - 25 km, 155 min
+Possivel - 97 km, 469 min
+Possivel - 46 km, 242 min
+Possivel - 16 km, 210 min
+Possivel - 58 km, 203 min
+Possivel - 52 km, 434 min
+Possivel - 61 km, 262 min
+

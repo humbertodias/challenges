@@ -1,0 +1,10 @@
+2
+Take a look at this!!
+!!siht ta kool a ekaT
+5
+P=NP
+ Authors: A. Cookie, N. D. Fortune, L. Shalom
+ Abstract: We give a PTAS algorithm for MaxSAT and apply the PCP-Theorem [3]
+ Let F be a set of clauses. The following PTAS algorithm gives an optimal
+ assignment for F:
+0

@@ -1,0 +1,5 @@
+4 4
+nnnn
+bn*n
+nb*b
+bbnb

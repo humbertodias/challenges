@@ -1,0 +1,5 @@
+Mr emp1 to go from Ofi1 to ofi4, you will receive 6 euros
+Path:Ofi1 Ofi2 ofi4
+Mr Dofyl to go from Murcia to Albacete, you will receive 7 euros
+Path:Murcia Alicante Albacete
+Sorry Mr Dofyl you can not go from Albacete to Murcia

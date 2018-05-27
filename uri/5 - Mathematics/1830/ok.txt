@@ -1,0 +1,5 @@
+Caso #1: 10 Especial, 30 Predileta e 20 Sortida
+Caso #2: 1 Especial, 1 Predileta e 1 Sortida
+Caso #3: 1 Especial, 2 Predileta e 3 Sortida
+Caso #4: 50 Especial, 20 Predileta e 100 Sortida
+Caso #5: 13 Especial, 77 Predileta e 58 Sortida

@@ -1,0 +1,6 @@
+Instancia 1
+0.500000
+
+Instancia 2
+0.562500
+

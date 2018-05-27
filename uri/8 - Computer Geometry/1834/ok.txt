@@ -1,0 +1,9 @@
+Relatorio Vogon #35987-2
+Distancia entre referencias: 56.57 anos-luz
+Setor Oeste:
+- 2 planeta(s)
+- 9 bilhao(oes) de habitante(s)
+Setor Leste:
+- 1 planeta(s)
+- 4 bilhao(oes) de habitante(s)
+Casualidades: 2 planeta(s)

@@ -1,0 +1,5 @@
+A competicao terminou empatada!
+Rodada #1: Lucas foi o vencedor
+Rodada #2: Pedro foi o vencedor
+Rodada #3: Lucas foi o vencedor
+Rodada #4: Pedro foi o vencedor

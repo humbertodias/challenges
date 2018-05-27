@@ -1,0 +1,11 @@
+2
+S 1
+2H
+AH
+2S
+KH
+NT 1
+2H
+AH
+2S
+KH

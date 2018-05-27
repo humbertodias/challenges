@@ -1,0 +1,6 @@
+15 4 4
+varzea tijuca 5
+araras alto 5
+varzea alto 25
+tijuca araras 10
+0 0 0

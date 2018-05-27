@@ -1,0 +1,5 @@
+1 1 Norte
+4 8 Norte
+3 2 Sul
+100000 100000 Oeste
+100000 0 QualquerCoisaAquiEstaValendo

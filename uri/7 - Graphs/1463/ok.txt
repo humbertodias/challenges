@@ -1,0 +1,16 @@
+Nivel 0: +
+Nivel 1: -/
+Nivel 2: *+8-
+Nivel 3: 4a6b97
+
+Nivel 0: +
+Nivel 1: ab
+
+Nivel 0: +
+Nivel 1: +*
+Nivel 2: -1c3
+Nivel 3: -6
+Nivel 4: **
+Nivel 5: +a45
+Nivel 6: a*
+Nivel 7: bc

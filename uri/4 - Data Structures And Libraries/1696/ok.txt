@@ -1,0 +1,8 @@
+10 Sanches
+4 Rusa
+5 Sanches
+7 Sanches
+-7 Rusa
+-10 Sanches
+3 Sanches
+
