@@ -12,9 +12,7 @@ def main()
 	    aux = b
     end
     
-    if(aux > c)
-        aux = aux
-    else
+    if(aux < c)
         aux = c
     end
     

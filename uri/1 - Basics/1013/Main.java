@@ -15,9 +15,7 @@ public class Main{
         else
             aux = b;
         
-        if(aux > c)
-            aux = aux;
-        else
+        if(aux < c)
             aux = c;
         
         System.out.format("%d eh o maior\n", aux);

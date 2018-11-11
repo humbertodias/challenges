@@ -7,9 +7,7 @@ def main():
     else:
 	    aux = b
     
-    if(aux > c):
-        aux = aux
-    else:
+    if(aux < c):
         aux = c
     
     print("%d eh o maior" % (aux) )
