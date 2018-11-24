@@ -2,20 +2,35 @@ package main
 
 import (
 	"fmt"
-	"math"
+	"math/big"
 )
 
 func main() {
-	var nl, n, m int
-	var f float64
-	var s string
+	var n, m, nl int
+	var l *big.Int
 
 	fmt.Scanf("%d", &nl)
 	for i := 0; i < nl; i++ {
 		fmt.Scanf("%d %d", &n, &m)
-		f = math.Pow(float64(n), float64(m))
-		s = fmt.Sprintf("%.0f", f)
-		fmt.Printf("%d\n", len(s))
+		l = powBig(n, m)
+		fmt.Printf("%v\n", len(l.String()))
 	}
 
+}
+
+func powBig(a, n int) *big.Int {
+	tmp := big.NewInt(int64(a))
+	res := big.NewInt(1)
+	for n > 0 {
+		temp := new(big.Int)
+		if n%2 == 1 {
+			temp.Mul(res, tmp)
+			res = temp
+		}
+		temp = new(big.Int)
+		temp.Mul(tmp, tmp)
+		tmp = temp
+		n /= 2
+	}
+	return res
 }
