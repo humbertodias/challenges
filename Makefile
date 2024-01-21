@@ -3,7 +3,7 @@ FILE_NAME=Main
 STIME = @date '+%s' > $@_time
 ETIME = @read st < $@_time ; st=$$((`date '+%s'`-$$st-68400)) ; echo  Elapsed time: `date -r $$st '+%H:%M:%S'`
 
-run: run_c run_cs run_cpp run_java run_python2 run_python3 run_ruby run_go
+run: run_c run_cs run_cpp run_java run_python2 run_python3 run_ruby run_go run_rust
 
 run_c: compile_c
 
@@ -60,7 +60,14 @@ run_ruby: compile_ruby
 	@-diff ok.txt out.txt &> diff.txt
 	@[ -s diff.txt ] || echo "OK"
 
-	
+run_rust: compile_rust
+
+	@echo -n 'Rust = '
+	@./"$(FILE_NAME)_rs" < in.txt > out.txt
+	@-diff ok.txt out.txt &> diff.txt
+	@[ -s diff.txt ] || echo "OK" 
+
+
 compile_c:
 	@gcc "$(FILE_NAME).c" -o "$(FILE_NAME)_c" -O2 -lm
 
@@ -85,7 +92,10 @@ compile_python3:
 compile_ruby:
 # Ruby does not require compilation
 
-compile: compile_c compile_cpp compile_java compile_python2 compile_python3 compile_ruby
+compile_rust:
+	@rustc "$(FILE_NAME).rs" -o "$(FILE_NAME)_rs"
+
+compile: compile_c compile_cpp compile_java compile_python2 compile_python3 compile_ruby compile_rust
 
 clean:
 	@rm -rf __pycache__ *.BAK out.txt diff.txt *.class *.pyc $(FILE_NAME)_cpp $(FILE_NAME)_c $(FILE_NAME)_cs $(FILE_NAME)_go

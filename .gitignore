@@ -31,3 +31,4 @@ Main_*
 *.class
 out.txt
 diff.txt
+.vscode
