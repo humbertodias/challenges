@@ -42,7 +42,7 @@ run_java: compile_java
 run_python2: compile_python2
 
 	@echo -n 'Python2 = '
-	@python2 "$(FILE_NAME)2.pyc" < in.txt > out.txt
+	@which python2 && @python2 "$(FILE_NAME)2.pyc" < in.txt > out.txt || echo "Skip"
 	@-diff ok.txt out.txt &> diff.txt
 	@[ -s diff.txt ] || echo "OK"
 
@@ -77,7 +77,7 @@ compile_java:
 	@javac "$(FILE_NAME).java"
 
 compile_python2:
-	@python2 -m py_compile "$(FILE_NAME)2.py"
+	@which python2 && @python2 -m py_compile "$(FILE_NAME)2.py" || echo "Python2 not found"
 
 compile_python3:
 	@python3 -m py_compile "$(FILE_NAME)3.py"
